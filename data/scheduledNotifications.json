@@ -1,0 +1,9 @@
+[
+  {
+    "content": {
+      "title": "Hello",
+      "message": "This is a test notification"
+    },
+    "mediums": ["email"]
+  }
+]
